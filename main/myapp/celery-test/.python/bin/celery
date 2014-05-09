@@ -1,0 +1,9 @@
+#!/home/LISTPLAY1/main/myapp/celery-test/.python/bin/python2.7
+# EASY-INSTALL-ENTRY-SCRIPT: 'celery==3.1.11','console_scripts','celery'
+__requires__ = 'celery==3.1.11'
+import sys
+from pkg_resources import load_entry_point
+
+sys.exit(
+   load_entry_point('celery==3.1.11', 'console_scripts', 'celery')()
+)

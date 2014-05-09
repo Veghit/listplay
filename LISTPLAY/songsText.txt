@@ -1,0 +1,11 @@
+Enter tracks i.e.                                                                                                 -
+---------------------------                                                                                     P
+harrell Williams - Happy                                                                                         J
+ohn Legend - All of Me                                                                                                    K
+aty Perry - Dark Horse                                                                                     J
+ason Derulo - Talk Dirty                                                                                    I
+dina Menzel - Let It Go                                                                                          -
+---------------------------                                                                                   *
+ in 'same artist' lists                                                                                     f
+ill the 'Artist' field and                                                                                 w
+rite just track titles.

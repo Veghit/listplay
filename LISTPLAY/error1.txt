@@ -1,0 +1,7 @@
+<p id="errors">
+    No songs were found. <br />
+    This might happen for a number of reasons : <br />
+    non-latin chracters are not supported at the moment. <br />
+    You might have missspelt songs titles or artists. <br />
+    Please try again and make another playlist.
+</p>
